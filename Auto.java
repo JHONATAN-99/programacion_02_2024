@@ -17,5 +17,6 @@ public class Auto{
     
     public void algo(){
         duenio.getNombre();
+        Systema.out.println("hola mundo");
     }
 }
